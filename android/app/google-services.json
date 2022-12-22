@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "420580140900",
+    "project_id": "zoom-meet-58edd",
+    "storage_bucket": "zoom-meet-58edd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420580140900:android:258e74e9d58b1aed943c71",
+        "android_client_info": {
+          "package_name": "com.example.zoom_meeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420580140900-ctpa72oj7f426oaavf8qp6fmqic9kd45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zoom_meeting",
+            "certificate_hash": "1ca56c1d715f88d9e9c83206b74a16891e990217"
+          }
+        },
+        {
+          "client_id": "420580140900-5ho73lkho3269b6coimt08rra444ijh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmoOlo0ibni1Bl0FpRVrongm5o559ZpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420580140900-5ho73lkho3269b6coimt08rra444ijh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
